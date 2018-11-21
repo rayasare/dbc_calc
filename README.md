@@ -5,7 +5,7 @@ dbc_calc
 [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/REPLACE_WITH_APPVEYOR_LINK/branch/master?svg=true)](https://ci.appveyor.com/project/REPLACE_WITH_OWNER_ACCOUNT/dbc_calc/branch/master)
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/dbc_calc/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/dbc_calc/branch/master)
 
-Dynamic binding capacity calculator
+Fits a sigmoid to csv data for the purposes of calculating dynamic binding capacity.
 
 ### Copyright
 
